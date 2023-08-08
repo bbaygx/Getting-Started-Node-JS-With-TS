@@ -91,7 +91,7 @@ Langkah 6: Kompilasi dan Jalankan
 Dengan langkah-langkah ini, Anda telah mengatur proyek Node.js dengan kerangka kerja Express menggunakan TypeScript. Anda dapat melanjutkan dengan menambahkan rute, middleware, dan fitur lainnya sesuai kebutuhan Anda.
 
 
-# With nodemon
+# With nodemon tanpa harus menjalankan folder dist
 
 Tentu, Anda dapat menggunakan `nodemon` untuk memantau perubahan pada file dan secara otomatis memulai ulang server Anda setiap kali ada perubahan. Berikut adalah langkah-langkah untuk mengatur proyek Node.js Express dengan TypeScript menggunakan `nodemon`:
 
