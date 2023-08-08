@@ -1,4 +1,20 @@
-Untuk mengatur proyek Node.js dengan kerangka kerja Express menggunakan TypeScript, ikuti langkah-langkah di bawah ini:
+# Instal Node JS + TS 
+
+1. Install semua package di `package.json`
+
+   ```
+   npm install
+    ```
+
+2. Jalanin Servernya
+
+   ```
+   npm run start
+   ```
+
+
+
+# Untuk membuat dan mengatur ulang proyek Node.js dengan kerangka kerja Express menggunakan TypeScript, ikuti langkah-langkah di bawah ini:
 
 Langkah 1: Persiapan Proyek
 1. Buat direktori untuk proyek Anda dan buka terminal di dalamnya.
