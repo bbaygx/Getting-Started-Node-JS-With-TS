@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES6", // Atau versi yang lebih tinggi yang Anda inginkan
+    "module": "CommonJS",
+    "outDir": "./dist", // Direktori keluaran untuk file JavaScript yang telah dikompilasi
+    "rootDir": "./src", // Direktori sumber kode TypeScript
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
